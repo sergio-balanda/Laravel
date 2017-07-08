@@ -1,2 +1,2 @@
 # Laravel
-proyecto cinema laravel
+proyecto laravel
